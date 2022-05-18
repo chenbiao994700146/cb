@@ -13,5 +13,6 @@ public class indexController {
         System.out.println("h3-pro");
         System.out.println("h3-push");
         System.out.println("h3-pull");
+        System.out.println("h3-error");
     }
 }
