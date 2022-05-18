@@ -16,5 +16,6 @@ public class indexController {
         System.out.println("h3-error");
         System.out.println("h3-error2");
         System.out.println("h3-error3");
+        System.out.println("h3-gitee");
     }
 }
